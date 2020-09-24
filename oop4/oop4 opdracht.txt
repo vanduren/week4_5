@@ -1,0 +1,3 @@
+1. Gebruik de data en voorbeeld van opdracht oop3.
+2. Maak een extend voor een racewagen en voeg hier een sponsor aan toe.
+   Gebruik hiervoor het internet om wat namen op te zoeken.

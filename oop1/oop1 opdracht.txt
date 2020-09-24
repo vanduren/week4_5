@@ -1,0 +1,11 @@
+1. Bekijk het bestand oop1a.php. Hierin wordt een class aangemaakt.
+2. Bekijk het bestand oop1b.php. Hierin wordt de class gebruikt.
+3. Maak twee nieuwe bestanden met de naam auto.php en auto_lijst.php.
+4. In auto.php maak je een class van een auto met als eigenschappen merk en kleur.
+4. Vergeet niet de setters en getters.
+5. In auto_lijst.php maak je een lijst van auto's met behulp van de class:
+
+Ferrari    rood
+Volkswagen groen
+Mazda      geel
+Toyota     wit

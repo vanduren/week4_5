@@ -1,0 +1,7 @@
+1. Maak een private eigenschap genaamd kostprijs (neem op in constructor).
+2. Deze eigenschap is wel in te stellen.
+3. Maak een public eigenschap verkoopprijs (neem op in contructor)
+4. Maak een public methode genaamd winst.
+5. Bereken hier de winst = verkoopprijs - kostprijs.
+6. Gebruik de autolijst uit opgave 2 en verzin zelf wat verkoop- en kostprijzen
+7. Toon de winst per auto.

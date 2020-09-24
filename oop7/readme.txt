@@ -1,0 +1,1 @@
+We vervangen de array met data (hardcoded) uit oop6 met data uit een database.

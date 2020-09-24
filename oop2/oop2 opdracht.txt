@@ -1,0 +1,2 @@
+1. Maak een constructor voor de auto class uit opdracht1.
+2. Gebruik de constructor om de lijst met auto's te maken uit opdracht1.

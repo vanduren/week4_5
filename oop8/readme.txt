@@ -1,0 +1,1 @@
+we gebruiken oop7 en maken database objecten.
